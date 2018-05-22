@@ -12,7 +12,7 @@
 4.运行下面的脚本：
 
 
-    wget https://coding.net/u/cvc/p/ssrpanel/git/raw/master/install.sh && bash install.sh                                                                                                                                                 ] 3,389       --.-K/s 用时 0s      
+    wget https://coding.net/u/cvc/p/ssrpanel/git/raw/master/install.sh && bash install.sh
 
 
 ----------------------------------------------------------------------------
