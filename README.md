@@ -1,1 +1,2 @@
 #ssrpanel
+基于宝塔面板一键安装ssrpanel脚本。
