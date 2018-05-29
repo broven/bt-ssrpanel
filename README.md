@@ -13,7 +13,7 @@
 4.运行下面的脚本：
 
 
-    wget https://coding.net/u/cvc/p/ssrpanel/git/raw/master/install.sh && bash install.sh
+    wget https://github.com/4kercc/bt-ssrpanel/raw/master/install.sh && bash install.sh
 
 
 ----------------------------------------------------------------------------
