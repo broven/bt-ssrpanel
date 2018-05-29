@@ -42,7 +42,7 @@ cd /www/wwwroot/$web
 rm -rf index.html 404.html
 #安装git,unzip工具
 yum install git unzip -y 
-wget --no-check https://coding.net/u/cvc/p/ssrpanel/git/raw/master/V3.4.zip
+wget --no-check https://github.com/4kercc/bt-ssrpanel/raw/master/V3.4.zip
 unzip V3.4.zip
 mv SSRPanel-3.4 ssrpanel
 cd ssrpanel/
