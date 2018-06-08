@@ -21,7 +21,7 @@ version='71'
 echo "正在安装fileinfo到服务器......";
 extFile='/www/server/php/70/lib/php/extensions/no-debug-non-zts-20160303/fileinfo.so'
 if [ ! -d "/www/server/php/71/src/ext/fileinfo" ];then
-wget -O ext-71.zip https://coding.net/u/cvc/p/ssrpanel/git/raw/master/ext-71.zip
+wget -O ext-71.zip https://github.com/4kercc/bt-ssrpanel/raw/master/ext-71.zip
 unzip -o ext-71.zip -d /www/server/php/71/ > /dev/null
 rm -f ext-71.zip
 fi
